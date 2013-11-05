@@ -1,0 +1,292 @@
+TTestARApp
+v7
+r0
+t311609697.560623
+cCheck dependencies
+cProcessInfoPlistFile /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/Info.plist TestARApp-Info.plist
+cCompileXIB /Users/Demis/Desktop/TestARApp/MainWindow.xib
+cCpResource build/Release-iphonesimulator/TestARApp.app/slimer.png slimer.png
+cCompileXIB /Users/Demis/Desktop/TestARApp/TestARAppViewController.xib
+cProcessPCH /var/folders/KA/KA3HHsb6E-CskBfqXCRFYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestARApp_Prefix-fyfaospcvtyylgfyvpcqpylenbur/TestARApp_Prefix.pch.gch TestARApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/main.o /Users/Demis/Desktop/TestARApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppAppDelegate.o /Users/Demis/Desktop/TestARApp/Classes/TestARAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppViewController.o /Users/Demis/Desktop/TestARApp/Classes/TestARAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp normal i386
+cGenerateDSYMFile /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app.dSYM /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp
+cTouch /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004C5A4CD800000000000004FE
+t1280986328
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/Demis/Desktop/TestARApp/Classes/TestARAppAppDelegate.h
+c000000004CD1D36700000000000001EE
+t1288819559
+s494
+i<UIKit/UIKit.h>
+
+N/Users/Demis/Desktop/TestARApp/Classes/TestARAppAppDelegate.m
+c000000004CD1D3670000000000000A98
+t1288819559
+s2712
+i"TestARAppAppDelegate.h"
+i"TestARAppViewController.h"
+
+N/Users/Demis/Desktop/TestARApp/Classes/TestARAppViewController.h
+c000000004CE186A200000000000005E3
+t1289848482
+s1507
+i<UIKit/UIKit.h>
+i<CoreGraphics/CoreGraphics.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/Demis/Desktop/TestARApp/Classes/TestARAppViewController.m
+c000000004CE290AD00000000000018C9
+t1289916589
+s6345
+i"TestARAppViewController.h"
+
+N/Users/Demis/Desktop/TestARApp/MainWindow.xib
+c000000004CD1D3670000000000004E41
+t1288819559
+s20033
+
+N/Users/Demis/Desktop/TestARApp/TestARAppViewController.xib
+c000000004CE18A960000000000008D63
+t1289849494
+s36195
+
+N/Users/Demis/Desktop/TestARApp/TestARApp_Prefix.pch
+c000000004CD1D36700000000000000BB
+t1288819559
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app
+t1289916608
+s272
+
+N/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app.dSYM
+t1289916608
+s102
+
+N/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/Info.plist
+t1289916606
+s631
+
+N/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/MainWindow.nib
+t1289916607
+s1685
+
+N/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/PkgInfo
+t1289916606
+s8
+
+N/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp
+t1289916608
+s26488
+
+N/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARAppViewController.nib
+t1289916607
+s5628
+
+N/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/slimer.png
+t1289916606
+s3496
+
+N/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARApp.LinkFileList
+c000000004CE290BE000000000000018B
+t1289916606
+s395
+
+N/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppAppDelegate.o
+t1289916608
+s50596
+
+N/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppViewController.o
+t1289916608
+s64208
+
+N/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/main.o
+t1289916607
+s6272
+
+N/Users/Demis/Desktop/TestARApp/main.m
+c000000004CD1D367000000000000016E
+t1288819559
+s366
+i<UIKit/UIKit.h>
+
+N/Users/Demis/Desktop/TestARApp/slimer.png
+c000000004C6C30970000000000000DA8
+t1282158743
+s3496
+
+N/var/folders/KA/KA3HHsb6E-CskBfqXCRFYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestARApp_Prefix-fyfaospcvtyylgfyvpcqpylenbur/TestARApp_Prefix.pch.gch
+t1289916607
+s14871568
+
+NTestARApp-Info.plist
+c000000004CD27D4F0000000000000393
+t1288863055
+s915
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311609697#311609697#0(0"0(0#1#0"8607312416#0"0#
+
+CCompileC build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppAppDelegate.o /Users/Demis/Desktop/TestARApp/Classes/TestARAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311609407.895251
+e311609408.018228
+r1
+xCompileC
+xbuild/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppAppDelegate.o
+x/Users/Demis/Desktop/TestARApp/Classes/TestARAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Demis/Desktop/TestARApp/Classes/TestARAppAppDelegate.m311609407#311609408#0(0"0(0#0#61"/Users/Demis/Desktop/TestARApp/Classes/TestARAppAppDelegate.m8606596480#1965"    cd /Users/Demis/Desktop/TestARApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-generated-files.hmap -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-own-target-headers.hmap -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-all-target-headers.hmap -iquote /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-project-headers.hmap -F/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator -I/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/include -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/DerivedSources/i386 -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/KA/KA3HHsb6E-CskBfqXCRFYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestARApp_Prefix-fyfaospcvtyylgfyvpcqpylenbur/TestARApp_Prefix.pch -c /Users/Demis/Desktop/TestARApp/Classes/TestARAppAppDelegate.m -o /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppAppDelegate.o0#
+
+CCompileC build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppViewController.o /Users/Demis/Desktop/TestARApp/Classes/TestARAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311609407.971077
+e311609408.200504
+r1
+xCompileC
+xbuild/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppViewController.o
+x/Users/Demis/Desktop/TestARApp/Classes/TestARAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Demis/Desktop/TestARApp/Classes/TestARAppViewController.m311609407#311609408#0(0"0(0#0#64"/Users/Demis/Desktop/TestARApp/Classes/TestARAppViewController.m8606302688#1971"    cd /Users/Demis/Desktop/TestARApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-generated-files.hmap -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-own-target-headers.hmap -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-all-target-headers.hmap -iquote /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-project-headers.hmap -F/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator -I/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/include -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/DerivedSources/i386 -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/KA/KA3HHsb6E-CskBfqXCRFYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestARApp_Prefix-fyfaospcvtyylgfyvpcqpylenbur/TestARApp_Prefix.pch -c /Users/Demis/Desktop/TestARApp/Classes/TestARAppViewController.m -o /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARAppViewController.o0#
+
+CCompileC build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/main.o /Users/Demis/Desktop/TestARApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311609407.893937
+e311609407.970978
+r1
+xCompileC
+xbuild/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/main.o
+x/Users/Demis/Desktop/TestARApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Demis/Desktop/TestARApp/main.m311609407#311609407#0(0"0(0#0#37"/Users/Demis/Desktop/TestARApp/main.m8606755296#1925"    cd /Users/Demis/Desktop/TestARApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-generated-files.hmap -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-own-target-headers.hmap -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-all-target-headers.hmap -iquote /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-project-headers.hmap -F/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator -I/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/include -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/DerivedSources/i386 -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/KA/KA3HHsb6E-CskBfqXCRFYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestARApp_Prefix-fyfaospcvtyylgfyvpcqpylenbur/TestARApp_Prefix.pch -c /Users/Demis/Desktop/TestARApp/main.m -o /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Demis/Desktop/TestARApp/MainWindow.xib
+s311609406.653241
+e311609407.150757
+r1
+xCompileXIB
+x/Users/Demis/Desktop/TestARApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311609406#311609407#0(0"0(0#0#45"/Users/Demis/Desktop/TestARApp/MainWindow.xib8606382080#550"    cd /Users/Demis/Desktop/TestARApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/MainWindow.nib /Users/Demis/Desktop/TestARApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/Demis/Desktop/TestARApp/TestARAppViewController.xib
+s311609406.655863
+e311609407.237746
+r1
+xCompileXIB
+x/Users/Demis/Desktop/TestARApp/TestARAppViewController.xib
+lSLF07#2@38"CompileXIB TestARAppViewController.xib311609406#311609407#0(0"0(0#0#58"/Users/Demis/Desktop/TestARApp/TestARAppViewController.xib8606042720#576"    cd /Users/Demis/Desktop/TestARApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARAppViewController.nib /Users/Demis/Desktop/TestARApp/TestARAppViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Release-iphonesimulator/TestARApp.app/slimer.png slimer.png
+s311609406.655249
+e311609406.680897
+r1
+xCpResource
+xbuild/Release-iphonesimulator/TestARApp.app/slimer.png
+xslimer.png
+lSLF07#2@15"Copy slimer.png311609406#311609406#0(0"0(0#0#41"/Users/Demis/Desktop/TestARApp/slimer.png8606191040#455"    cd /Users/Demis/Desktop/TestARApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/Demis/Desktop/TestARApp/slimer.png /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app0#
+
+CGenerateDSYMFile /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app.dSYM /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp
+s311609408.264199
+e311609408.289200
+r1
+xGenerateDSYMFile
+x/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app.dSYM
+x/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp
+lSLF07#2@119"GenerateDSYMFile build/Release-iphonesimulator/TestARApp.app.dSYM build/Release-iphonesimulator/TestARApp.app/TestARApp311609408#311609408#0(0"0(0#0#84"/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp8604295488#369"    cd /Users/Demis/Desktop/TestARApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp -o /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app.dSYM0#
+
+CLd /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp normal i386
+s311609408.200681
+e311609408.264097
+r1
+xLd
+x/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp
+xnormal
+xi386
+lSLF07#2@89"Link /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp311609408#311609408#0(0"0(0#0#0"8604570720#902"    cd /Users/Demis/Desktop/TestARApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator -F/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator -filelist /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/Objects-normal/i386/TestARApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/TestARApp0#
+
+CProcessInfoPlistFile /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/Info.plist TestARApp-Info.plist
+s311609406.631442
+e311609406.653143
+r1
+xProcessInfoPlistFile
+x/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/Info.plist
+xTestARApp-Info.plist
+lSLF07#2@28"Process TestARApp-Info.plist311609406#311609406#0(0"0(0#0#51"/Users/Demis/Desktop/TestARApp/TestARApp-Info.plist32933040433463412#465"    cd /Users/Demis/Desktop/TestARApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestARApp-Info.plist -genpkginfo /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app/Info.plist0#
+
+CProcessPCH /var/folders/KA/KA3HHsb6E-CskBfqXCRFYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestARApp_Prefix-fyfaospcvtyylgfyvpcqpylenbur/TestARApp_Prefix.pch.gch TestARApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311609407.237947
+e311609407.893803
+r1
+xProcessPCH
+x/var/folders/KA/KA3HHsb6E-CskBfqXCRFYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestARApp_Prefix-fyfaospcvtyylgfyvpcqpylenbur/TestARApp_Prefix.pch.gch
+xTestARApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TestARApp_Prefix.pch311609407#311609407#0(0"0(0#0#51"/Users/Demis/Desktop/TestARApp/TestARApp_Prefix.pch8599623776#1821"    cd /Users/Demis/Desktop/TestARApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-generated-files.hmap -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-own-target-headers.hmap -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-all-target-headers.hmap -iquote /Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/TestARApp-project-headers.hmap -F/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator -I/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/include -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/DerivedSources/i386 -I/Users/Demis/Desktop/TestARApp/build/TestARApp.build/Release-iphonesimulator/TestARApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/Demis/Desktop/TestARApp/TestARApp_Prefix.pch -o /var/folders/KA/KA3HHsb6E-CskBfqXCRFYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestARApp_Prefix-fyfaospcvtyylgfyvpcqpylenbur/TestARApp_Prefix.pch.gch0#
+
+CTouch /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app
+s311609408.289285
+e311609408.293672
+r1
+xTouch
+x/Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app
+lSLF07#2@80"Touch /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app311609408#311609408#0(0"0(0#0#0"8604209760#266"    cd /Users/Demis/Desktop/TestARApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Demis/Desktop/TestARApp/build/Release-iphonesimulator/TestARApp.app0#
+
